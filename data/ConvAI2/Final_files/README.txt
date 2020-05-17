@@ -1,0 +1,1 @@
+Put all final files in this folder. This files are use for attribute extraction task.
